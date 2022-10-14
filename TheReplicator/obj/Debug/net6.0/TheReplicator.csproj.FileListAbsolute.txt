@@ -1,0 +1,15 @@
+C:\Users\John.Poston\GC\CSharpBasics\TheReplicator\obj\Debug\net6.0\TheReplicator.csproj.AssemblyReference.cache
+C:\Users\John.Poston\GC\CSharpBasics\TheReplicator\obj\Debug\net6.0\TheReplicator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\John.Poston\GC\CSharpBasics\TheReplicator\obj\Debug\net6.0\TheReplicator.AssemblyInfoInputs.cache
+C:\Users\John.Poston\GC\CSharpBasics\TheReplicator\obj\Debug\net6.0\TheReplicator.AssemblyInfo.cs
+C:\Users\John.Poston\GC\CSharpBasics\TheReplicator\obj\Debug\net6.0\TheReplicator.csproj.CoreCompileInputs.cache
+C:\Users\John.Poston\GC\CSharpBasics\TheReplicator\bin\Debug\net6.0\TheReplicator.exe
+C:\Users\John.Poston\GC\CSharpBasics\TheReplicator\bin\Debug\net6.0\TheReplicator.deps.json
+C:\Users\John.Poston\GC\CSharpBasics\TheReplicator\bin\Debug\net6.0\TheReplicator.runtimeconfig.json
+C:\Users\John.Poston\GC\CSharpBasics\TheReplicator\bin\Debug\net6.0\TheReplicator.dll
+C:\Users\John.Poston\GC\CSharpBasics\TheReplicator\bin\Debug\net6.0\TheReplicator.pdb
+C:\Users\John.Poston\GC\CSharpBasics\TheReplicator\obj\Debug\net6.0\TheReplicator.dll
+C:\Users\John.Poston\GC\CSharpBasics\TheReplicator\obj\Debug\net6.0\refint\TheReplicator.dll
+C:\Users\John.Poston\GC\CSharpBasics\TheReplicator\obj\Debug\net6.0\TheReplicator.pdb
+C:\Users\John.Poston\GC\CSharpBasics\TheReplicator\obj\Debug\net6.0\TheReplicator.genruntimeconfig.cache
+C:\Users\John.Poston\GC\CSharpBasics\TheReplicator\obj\Debug\net6.0\ref\TheReplicator.dll

@@ -1,0 +1,15 @@
+C:\Users\John.Poston\GC\CSharpBasics\SongCollection\bin\Debug\net6.0\SongCollection.exe
+C:\Users\John.Poston\GC\CSharpBasics\SongCollection\bin\Debug\net6.0\SongCollection.deps.json
+C:\Users\John.Poston\GC\CSharpBasics\SongCollection\bin\Debug\net6.0\SongCollection.runtimeconfig.json
+C:\Users\John.Poston\GC\CSharpBasics\SongCollection\bin\Debug\net6.0\SongCollection.dll
+C:\Users\John.Poston\GC\CSharpBasics\SongCollection\bin\Debug\net6.0\SongCollection.pdb
+C:\Users\John.Poston\GC\CSharpBasics\SongCollection\obj\Debug\net6.0\SongCollection.csproj.AssemblyReference.cache
+C:\Users\John.Poston\GC\CSharpBasics\SongCollection\obj\Debug\net6.0\SongCollection.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\John.Poston\GC\CSharpBasics\SongCollection\obj\Debug\net6.0\SongCollection.AssemblyInfoInputs.cache
+C:\Users\John.Poston\GC\CSharpBasics\SongCollection\obj\Debug\net6.0\SongCollection.AssemblyInfo.cs
+C:\Users\John.Poston\GC\CSharpBasics\SongCollection\obj\Debug\net6.0\SongCollection.csproj.CoreCompileInputs.cache
+C:\Users\John.Poston\GC\CSharpBasics\SongCollection\obj\Debug\net6.0\SongCollection.dll
+C:\Users\John.Poston\GC\CSharpBasics\SongCollection\obj\Debug\net6.0\refint\SongCollection.dll
+C:\Users\John.Poston\GC\CSharpBasics\SongCollection\obj\Debug\net6.0\SongCollection.pdb
+C:\Users\John.Poston\GC\CSharpBasics\SongCollection\obj\Debug\net6.0\SongCollection.genruntimeconfig.cache
+C:\Users\John.Poston\GC\CSharpBasics\SongCollection\obj\Debug\net6.0\ref\SongCollection.dll

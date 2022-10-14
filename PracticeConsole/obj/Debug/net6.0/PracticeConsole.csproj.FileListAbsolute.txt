@@ -1,0 +1,15 @@
+C:\Users\John.Poston\GC\CSharpBasics\PracticeConsole\bin\Debug\net6.0\PracticeConsole.exe
+C:\Users\John.Poston\GC\CSharpBasics\PracticeConsole\bin\Debug\net6.0\PracticeConsole.deps.json
+C:\Users\John.Poston\GC\CSharpBasics\PracticeConsole\bin\Debug\net6.0\PracticeConsole.runtimeconfig.json
+C:\Users\John.Poston\GC\CSharpBasics\PracticeConsole\bin\Debug\net6.0\PracticeConsole.dll
+C:\Users\John.Poston\GC\CSharpBasics\PracticeConsole\bin\Debug\net6.0\PracticeConsole.pdb
+C:\Users\John.Poston\GC\CSharpBasics\PracticeConsole\obj\Debug\net6.0\PracticeConsole.csproj.AssemblyReference.cache
+C:\Users\John.Poston\GC\CSharpBasics\PracticeConsole\obj\Debug\net6.0\PracticeConsole.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\John.Poston\GC\CSharpBasics\PracticeConsole\obj\Debug\net6.0\PracticeConsole.AssemblyInfoInputs.cache
+C:\Users\John.Poston\GC\CSharpBasics\PracticeConsole\obj\Debug\net6.0\PracticeConsole.AssemblyInfo.cs
+C:\Users\John.Poston\GC\CSharpBasics\PracticeConsole\obj\Debug\net6.0\PracticeConsole.csproj.CoreCompileInputs.cache
+C:\Users\John.Poston\GC\CSharpBasics\PracticeConsole\obj\Debug\net6.0\PracticeConsole.dll
+C:\Users\John.Poston\GC\CSharpBasics\PracticeConsole\obj\Debug\net6.0\refint\PracticeConsole.dll
+C:\Users\John.Poston\GC\CSharpBasics\PracticeConsole\obj\Debug\net6.0\PracticeConsole.pdb
+C:\Users\John.Poston\GC\CSharpBasics\PracticeConsole\obj\Debug\net6.0\PracticeConsole.genruntimeconfig.cache
+C:\Users\John.Poston\GC\CSharpBasics\PracticeConsole\obj\Debug\net6.0\ref\PracticeConsole.dll

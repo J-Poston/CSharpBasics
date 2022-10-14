@@ -1,0 +1,15 @@
+C:\Users\John.Poston\GC\CSharpBasics\GradeBook\bin\Debug\net6.0\GradeBook.exe
+C:\Users\John.Poston\GC\CSharpBasics\GradeBook\bin\Debug\net6.0\GradeBook.deps.json
+C:\Users\John.Poston\GC\CSharpBasics\GradeBook\bin\Debug\net6.0\GradeBook.runtimeconfig.json
+C:\Users\John.Poston\GC\CSharpBasics\GradeBook\bin\Debug\net6.0\GradeBook.dll
+C:\Users\John.Poston\GC\CSharpBasics\GradeBook\bin\Debug\net6.0\GradeBook.pdb
+C:\Users\John.Poston\GC\CSharpBasics\GradeBook\obj\Debug\net6.0\GradeBook.csproj.AssemblyReference.cache
+C:\Users\John.Poston\GC\CSharpBasics\GradeBook\obj\Debug\net6.0\GradeBook.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\John.Poston\GC\CSharpBasics\GradeBook\obj\Debug\net6.0\GradeBook.AssemblyInfoInputs.cache
+C:\Users\John.Poston\GC\CSharpBasics\GradeBook\obj\Debug\net6.0\GradeBook.AssemblyInfo.cs
+C:\Users\John.Poston\GC\CSharpBasics\GradeBook\obj\Debug\net6.0\GradeBook.csproj.CoreCompileInputs.cache
+C:\Users\John.Poston\GC\CSharpBasics\GradeBook\obj\Debug\net6.0\GradeBook.dll
+C:\Users\John.Poston\GC\CSharpBasics\GradeBook\obj\Debug\net6.0\refint\GradeBook.dll
+C:\Users\John.Poston\GC\CSharpBasics\GradeBook\obj\Debug\net6.0\GradeBook.pdb
+C:\Users\John.Poston\GC\CSharpBasics\GradeBook\obj\Debug\net6.0\GradeBook.genruntimeconfig.cache
+C:\Users\John.Poston\GC\CSharpBasics\GradeBook\obj\Debug\net6.0\ref\GradeBook.dll
